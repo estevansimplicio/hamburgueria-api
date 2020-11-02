@@ -10,7 +10,7 @@ public class IndexController {
 
     @GetMapping
     public String get(){
-        return "API dos lanches";
+        return "API dos lanches - AAAAA";
     }
 
     @GetMapping("/userInfo")
