@@ -1,4 +1,4 @@
-package com.hamburgueria.hamburgueriaapi.api.exception;
+package com.hamburgueria.hamburgueriaapi.api.infra.exception;
 
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.http.ResponseEntity;

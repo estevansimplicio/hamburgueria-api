@@ -1,4 +1,4 @@
-package com.hamburgueria.hamburgueriaapi.api.security.jwt;
+package com.hamburgueria.hamburgueriaapi.api.infra.security.jwt;
 
 import com.google.gson.JsonObject;
 import org.springframework.http.HttpStatus;

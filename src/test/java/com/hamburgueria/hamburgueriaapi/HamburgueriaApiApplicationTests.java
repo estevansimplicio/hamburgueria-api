@@ -1,8 +1,8 @@
 package com.hamburgueria.hamburgueriaapi;
 
-import com.hamburgueria.hamburgueriaapi.domain.Lanche;
-import com.hamburgueria.hamburgueriaapi.domain.LancheService;
-import com.hamburgueria.hamburgueriaapi.domain.dto.LancheDTO;
+import com.hamburgueria.hamburgueriaapi.api.lanches.Lanche;
+import com.hamburgueria.hamburgueriaapi.api.lanches.LancheService;
+import com.hamburgueria.hamburgueriaapi.api.lanches.LancheDTO;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

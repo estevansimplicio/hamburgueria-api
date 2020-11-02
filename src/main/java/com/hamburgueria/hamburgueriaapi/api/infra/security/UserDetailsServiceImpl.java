@@ -1,7 +1,7 @@
-package com.hamburgueria.hamburgueriaapi.api.security;
+package com.hamburgueria.hamburgueriaapi.api.infra.security;
 
-import com.hamburgueria.hamburgueriaapi.domain.User;
-import com.hamburgueria.hamburgueriaapi.domain.UserRepository;
+import com.hamburgueria.hamburgueriaapi.api.users.User;
+import com.hamburgueria.hamburgueriaapi.api.users.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

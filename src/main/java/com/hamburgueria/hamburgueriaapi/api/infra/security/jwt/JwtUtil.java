@@ -1,4 +1,4 @@
-package com.hamburgueria.hamburgueriaapi.api.security.jwt;
+package com.hamburgueria.hamburgueriaapi.api.infra.security.jwt;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

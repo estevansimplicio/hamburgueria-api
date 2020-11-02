@@ -1,8 +1,8 @@
-package com.hamburgueria.hamburgueriaapi.api.security.jwt;
+package com.hamburgueria.hamburgueriaapi.api.infra.security.jwt;
 
-import com.hamburgueria.hamburgueriaapi.domain.User;
+import com.hamburgueria.hamburgueriaapi.api.users.User;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.hamburgueria.hamburgueriaapi.domain.dto.UserDTO;
+import com.hamburgueria.hamburgueriaapi.api.users.UserDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.BadCredentialsException;

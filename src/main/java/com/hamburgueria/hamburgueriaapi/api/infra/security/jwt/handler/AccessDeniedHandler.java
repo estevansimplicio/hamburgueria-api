@@ -1,7 +1,7 @@
-package com.hamburgueria.hamburgueriaapi.api.security.jwt.handler;
+package com.hamburgueria.hamburgueriaapi.api.infra.security.jwt.handler;
 
 
-import com.hamburgueria.hamburgueriaapi.api.security.jwt.ServletUtil;
+import com.hamburgueria.hamburgueriaapi.api.infra.security.jwt.ServletUtil;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.security.core.Authentication;

@@ -1,6 +1,6 @@
-package com.hamburgueria.hamburgueriaapi.api.security.jwt.handler;
+package com.hamburgueria.hamburgueriaapi.api.infra.security.jwt.handler;
 
-import com.hamburgueria.hamburgueriaapi.api.security.jwt.ServletUtil;
+import com.hamburgueria.hamburgueriaapi.api.infra.security.jwt.ServletUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;

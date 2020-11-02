@@ -1,6 +1,5 @@
-package com.hamburgueria.hamburgueriaapi.domain.dto;
+package com.hamburgueria.hamburgueriaapi.api.lanches;
 
-import com.hamburgueria.hamburgueriaapi.domain.Lanche;
 import lombok.Data;
 import org.modelmapper.ModelMapper;
 

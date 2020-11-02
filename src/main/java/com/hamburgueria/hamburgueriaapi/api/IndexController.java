@@ -13,10 +13,7 @@ public class IndexController {
         return "API dos lanches";
     }
 
-    @GetMapping("/userInfo")
-    public UserDetails userInfo(@AuthenticationPrincipal UserDetails user){
-        return user;
-    }
+
 
 
 

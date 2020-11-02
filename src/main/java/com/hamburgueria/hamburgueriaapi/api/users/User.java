@@ -1,4 +1,4 @@
-package com.hamburgueria.hamburgueriaapi.domain;
+package com.hamburgueria.hamburgueriaapi.api.users;
 
 import lombok.Data;
 import org.springframework.security.core.GrantedAuthority;

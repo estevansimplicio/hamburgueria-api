@@ -1,9 +1,9 @@
-package com.hamburgueria.hamburgueriaapi.api.security;
+package com.hamburgueria.hamburgueriaapi.api.infra.security;
 
-import com.hamburgueria.hamburgueriaapi.api.security.jwt.JwtAuthenticationFilter;
-import com.hamburgueria.hamburgueriaapi.api.security.jwt.JwtAuthorizationFilter;
-import com.hamburgueria.hamburgueriaapi.api.security.jwt.handler.AccessDeniedHandler;
-import com.hamburgueria.hamburgueriaapi.api.security.jwt.handler.UnauthorizedHandler;
+import com.hamburgueria.hamburgueriaapi.api.infra.security.jwt.JwtAuthenticationFilter;
+import com.hamburgueria.hamburgueriaapi.api.infra.security.jwt.JwtAuthorizationFilter;
+import com.hamburgueria.hamburgueriaapi.api.infra.security.jwt.handler.AccessDeniedHandler;
+import com.hamburgueria.hamburgueriaapi.api.infra.security.jwt.handler.UnauthorizedHandler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Configuration;

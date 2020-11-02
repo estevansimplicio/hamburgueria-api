@@ -1,4 +1,4 @@
-package com.hamburgueria.hamburgueriaapi.domain;
+package com.hamburgueria.hamburgueriaapi.api.users;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

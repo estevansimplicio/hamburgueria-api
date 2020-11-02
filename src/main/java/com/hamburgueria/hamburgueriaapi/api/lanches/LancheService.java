@@ -1,13 +1,10 @@
-package com.hamburgueria.hamburgueriaapi.domain;
+package com.hamburgueria.hamburgueriaapi.api.lanches;
 
 
-import com.hamburgueria.hamburgueriaapi.domain.dto.LancheDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.Assert;
 
-import java.math.BigDecimal;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;

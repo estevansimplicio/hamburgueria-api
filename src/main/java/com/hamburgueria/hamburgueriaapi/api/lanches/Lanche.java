@@ -1,4 +1,4 @@
-package com.hamburgueria.hamburgueriaapi.domain;
+package com.hamburgueria.hamburgueriaapi.api.lanches;
 
 import lombok.Data;
 
